@@ -1,4 +1,4 @@
-# Feburuary4thData
+# February4thData
 
 このファイルはすべてPython3で動作するように書かれています。
 
